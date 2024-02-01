@@ -16,6 +16,6 @@ You should read input.txt file, and construct your graph based on this informati
 
 You can assume that there is always a path between any two cities and you should use Euclidian distance to calculate length of this path. For example, there is a path from cities D to E and E to D. Their lengths are equal to:  
 
-                                                                          sqrt((−1−0)^2 +(2−3)^2))= sqrt(2)
+                                                      sqrt((−1−0)^2 +(2−3)^2))= sqrt(2)
 
 Your goal is to find paths to provide electricity to all cities and require the use of the least number of poles. While printing, you should print the path in ascending order of their length. Also, your path starts with city which comes from alphabetically first.
